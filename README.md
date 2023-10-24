@@ -5,8 +5,7 @@ JSP signifie JavaServer Pages. Il s'agit d'une technologie utilisée dans le dé
 L'objectif de ce TP est de créer une interface de gestion des machines en effectuant des opérations CRUD, c'est-à-dire la création, la lecture, la mise à jour et la suppression des données relatives aux machines. Cette interface permettra aux utilisateurs de manipuler efficacement les informations concernant les machines
 
 # technologie utilisé
-- Hibernate
-- Jsp Servlet
+- Hibernate , Jsp Servlet
 # Principale image
 ![jsp1](https://github.com/Oussama-Errahimi20032/TP-JSP/assets/147452642/4a6eaff7-a268-4037-9013-ac26fe89ff18)
 
